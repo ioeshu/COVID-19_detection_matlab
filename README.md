@@ -1,6 +1,6 @@
 # COVID-19_detection_matlab
 
-you can use ‘sgdm’ — Use the stochastic gradient descent with momentum (SGDM) optimizer. or  insted of Adam Optimizer
+you can use ‘sgdm’ — Use the stochastic gradient descent with momentum (SGDM) optimizer. or RMSProp optimizer  insted of Adam Optimizer
 
 learn more about the training options
 
